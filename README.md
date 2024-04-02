@@ -7,4 +7,4 @@ Script automates the process of converting large amount of video files to a HEVC
 To use this script, navigate to the folder containing the script and execute it from the PowerShell command line, providing the paths to the input and output folders:
 
 ```powershell
-.\script.ps1 'C:\path\to\input\folder' 'C:\path\to\output\folder'
+.\massencode.ps1 '\path\to\input\folder' '\path\to\output\folder'
