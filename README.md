@@ -10,6 +10,7 @@ To use this script, navigate to the folder containing the script and execute it 
 .\massencode.ps1 '\path\to\input\folder' '\path\to\output\folder'
 ```
 
+
 ### Why?
 
 The script was created for educational purposes for one particular scenario.
